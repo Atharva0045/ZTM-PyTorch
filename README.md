@@ -1,7 +1,3 @@
-Here's a sample README for your GitHub repository containing the notebooks from the ZTM PyTorch for Deep Learning Bootcamp:
-
----
-
 # PyTorch for Deep Learning Bootcamp - ZTM Course
 
 Welcome to my repository for the **Zero to Mastery (ZTM) PyTorch for Deep Learning Bootcamp**! 🚀 This repository contains all the notebooks I've completed throughout the course, showcasing hands-on projects, experiments, and deep learning models built with PyTorch.
